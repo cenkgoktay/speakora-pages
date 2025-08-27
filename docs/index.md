@@ -1,0 +1,2 @@
+# Speakora
+- [Privacy Policy](./privacy)
